@@ -5,7 +5,7 @@
     <div id="iowfe" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
       <h1 id="i6xpkl" style="text-align: left;">AIGER</h1>
       <p id="iur2th"><b>AI</b> <b>G</b>enerative <b>E</b>nhanced <b>R</b>etrained</p>
-      <p id="igbek3" class="smallText" style="text-align: left;">생성형 AI를 기반으로한 B2B 비즈니스/데이터 분석 플랫폼을 경험해보세요!</p>
+      <p id="igbek3" class="" style="text-align: left;">생성형 AI를 기반으로한 B2B 비즈니스/데이터 분석 플랫폼을 경험해보세요!</p>
     </div>
     <div id="i9cc45" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;"><img src="@/assets/img/aiger.png" id="ixdhg4" alt="aiger.a3bdb89" name="aiger.a3bdb89.png" style="width: 90%; height: auto; max-width: 100%; margin-left: auto; margin-right: auto;" /></div>
   </div>

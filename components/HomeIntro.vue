@@ -88,21 +88,21 @@
         <img src="@/assets/img/intro_star.png" id="iqjvyv" alt="intro_star" name="intro_star.png"
           style="width: 30%; height: auto;  margin-left: auto; margin-right: auto;" />
         <h4 id="icoygg" style="text-align: center;">&nbsp;A-List Members</h4>
-        <p id="ie2sto" class="smallText" style="text-align: center;">핵심 전문가로 구성된 팀&nbsp;</p>
+        <p id="ie2sto" class="" style="text-align: center;">핵심 전문가로 구성된 팀&nbsp;</p>
       </div>
       <div id="ixbpos" class="col-md-4 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
         <img src="@/assets/img/intro_brain.png" id="i9ldts" alt="intro_brain" name="intro_brain.png"
           style="width: 30%; height: auto;  margin-left: auto; margin-right: auto;" />
         <h4 id="i60785" style="text-align: center;">Experiences&nbsp;</h4>
-        <p id="i9bazi" class="smallText" style="text-align: center;">다양한 경험을 통한 독창적 사고</p>
+        <p id="i9bazi" class="" style="text-align: center;">다양한 경험을 통한 독창적 사고</p>
       </div>
       <div id="im5exp" class="col-md-4 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
         <img src="@/assets/img/intro_ribbon.png" id="i4ouen" alt="intro_ribbon" name="intro_ribbon.png"
           style="width: 30%; height: auto;  margin-left: auto; margin-right: auto;" />
         <h4 id="i1ij1v" style="text-align: center;">Passion&nbsp;</h4>
-        <p id="ieqs1c" class="smallText" style="text-align: center;">고객과 우리의 성공을 위한 열정</p>
+        <p id="ieqs1c" class="" style="text-align: center;">고객과 우리의 성공을 위한 열정</p>
       </div>
     </div>
   </div>

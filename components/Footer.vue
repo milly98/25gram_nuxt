@@ -6,7 +6,7 @@
       <p id="i6venl">E-mail :&nbsp;manager@25gram.com</p>
       <p id="i2g9in">Address :&nbsp;서울특별시 강동구 올림픽로 651 9층 (주)이오그램&nbsp;</p>
       <div id="i9d5ur" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
-      <p id="i61apk" class="smallText" style="text-align: left;">Copyright © . All rights reserved.</p>
+      <p id="i61apk" class="" style="text-align: left;">Copyright © . All rights reserved.</p>
     </div>
   </div>
 </template>

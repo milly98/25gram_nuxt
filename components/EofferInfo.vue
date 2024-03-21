@@ -4,7 +4,7 @@
   <div id="idlex" class="container" style="display: flex; flex-wrap: wrap;">
     <div id="iowfe" class="col-md-12 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
       <h1 id="i6xpkl" style="text-align: left;">EOFFER</h1>
-      <p id="igbek3" class="smallText" style="text-align: left;">고객의 행동을 실시간으로 파악하여, 비대면 앱 채널의 특정 위치에 특정 컨텐츠를 노출 시켜줍니다. <br id="imj44" />EOFFER와 함께 마케팅 전략을 더 효율적으로 진행해보세요!</p>
+      <p id="igbek3" class="" style="text-align: left;">고객의 행동을 실시간으로 파악하여, 비대면 앱 채널의 특정 위치에 특정 컨텐츠를 노출 시켜줍니다. <br id="imj44" />EOFFER와 함께 마케팅 전략을 더 효율적으로 진행해보세요!</p>
       <img src="@/assets/img/Eoffer.png" id="ixdhg4" alt="Eoffer" name="Eoffer.png" style="width: 65%; height: auto; max-width: 100%; margin-left: auto; margin-right: auto;" />
     </div>
   </div>

@@ -4,7 +4,7 @@
   <div id="idlex" class="container" style="display: flex; flex-wrap: wrap;">
     <div id="iowfe" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
       <h1 id="i6xpkl" style="text-align: left;">EOSAM&nbsp;</h1>
-      <p id="iyqox5" class="smallText" style="text-align: left;">여행은 단순한 목적지 도착이 아니라, 그 과정과 경험, 그리고 여정 자체의 가치를 강조합니다.<br id="ib650m" />우리는 특별한 테마의 여행을 꿈꾸며, 여행 전문가와 현지인들과 직접 소통하여 깊이 있는 정보와 의미 있는 경험을 취득하려 합니다.<br id="ijz418" />그래서 우리는 여행자의 개인적 취향과 가치를 반영하여, 각각의 여행이 진정으로 특별하고 의미 있게 만들어줍니다.<br id="iignwe" />이오샘과 함께 더 특별한 여행을 만들어보세요!</p>
+      <p id="iyqox5" class="" style="text-align: left;">여행은 단순한 목적지 도착이 아니라, 그 과정과 경험, 그리고 여정 자체의 가치를 강조합니다.<br id="ib650m" />우리는 특별한 테마의 여행을 꿈꾸며, 여행 전문가와 현지인들과 직접 소통하여 깊이 있는 정보와 의미 있는 경험을 취득하려 합니다.<br id="ijz418" />그래서 우리는 여행자의 개인적 취향과 가치를 반영하여, 각각의 여행이 진정으로 특별하고 의미 있게 만들어줍니다.<br id="iignwe" />이오샘과 함께 더 특별한 여행을 만들어보세요!</p>
     </div>
     <div class="col-md-6 columnBlockLayout" id="iwx405" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;"><img src="@/assets/img/eosam.png" id="ixdhg4" alt="eosam.2209bd5" name="eosam.2209bd5.png" style="width: 90%; height: auto; max-width: 100%; margin-left: auto; margin-right: auto;" /></div>
   </div>
