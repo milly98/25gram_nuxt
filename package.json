@@ -1,0 +1,32 @@
+{
+  "name": "25gram_nuxt",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Milly",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "bootstrap-vue": "^2.23.1",
+    "gsap": "^3.12.5",
+    "nuxt": "^2.0.0",
+    "sass": "^1.72.0",
+    "sass-loader": "10",
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "bootstrap": "^5.3.3",
+    "eslint": "^4.19.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
