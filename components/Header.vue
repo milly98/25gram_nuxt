@@ -1,29 +1,29 @@
 <template>
   <nav class="floating-bar navbar navbar-expand-lg navbar-light bg-beige navbar-static-top">
-    <div class="container px-5 circle">
-        <a class="logo-container logo" href="/" ></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 nav">
-                <li class="nav-item">
-                  <router-link to="/" class="nav-link"> 회사 소개 </router-link>
-                </li>
-                <li class='divider-vertical' aria-hidden='true'></li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">솔루션</a>
-                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                        <li><router-link to="/solutions" class="nav-link"> 솔루션 </router-link></li>
-                        <li><a class="dropdown-item" href="/solutions/AIGER">AIGER</a></li>
-                        <li><a class="dropdown-item" href="/solutions/EOFFER">EOFFER</a></li>
-                        <li><a class="dropdown-item" href="/solutions/EOSAM">EOSAM</a></li>
-                    </ul>
-                </li>
-                <li class='divider-vertical' aria-hidden='true'></li>
-                <li class="nav-item"><a class="nav-link" href="/customers">고객 사례</a></li>
-                <!-- <li class='divider-vertical' aria-hidden='true'></li>
-                <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li> -->
-            </ul>
-        </div>
+    <div class="container px-5 circle gradient-bg">
+      <a class="logo-container logo" href="/" ></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 nav">
+              <li class="nav-item">
+                <router-link to="/" class="nav-link"> 회사 소개 </router-link>
+              </li>
+              <li class='divider-vertical' aria-hidden='true'></li>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">솔루션</a>
+                  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
+                      <li><router-link to="/solutions" class="nav-link"> 솔루션 </router-link></li>
+                      <li><a class="dropdown-item" href="/solutions/AIGER">AIGER</a></li>
+                      <li><a class="dropdown-item" href="/solutions/EOFFER">EOFFER</a></li>
+                      <li><a class="dropdown-item" href="/solutions/EOSAM">EOSAM</a></li>
+                  </ul>
+              </li>
+              <li class='divider-vertical' aria-hidden='true'></li>
+              <li class="nav-item"><a class="nav-link" href="/customers">고객 사례</a></li>
+              <!-- <li class='divider-vertical' aria-hidden='true'></li>
+              <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li> -->
+          </ul>
+      </div>
     </div>
 </nav>
 </template>
@@ -67,5 +67,11 @@ a {
 .circle {
   background-color: #fff;
   border-radius: 2em;
+}
+.gradient-bg {
+    border: 3px solid transparent;
+    background-image: linear-gradient(#FFF, #FFF), linear-gradient(to right, #6E00FF,#005A94, #193D57);
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
 }
 </style>
