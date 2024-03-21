@@ -27,14 +27,17 @@
     <div id="i30fdu" class="col-md-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
       <h3 id="igy06o" style="text-align: left;">취향과 관심사에 맞춘 여행 정보</h3>
       <p>당신의 취향, 관심사, 생활 습관을 선택하면, 그에 맞는 여행 정보를 제공합니다. 공감하는 친구들과 함께 정보를 공유하고, 소통하며 여행을 계획해보세요.</p>
+      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <h3 id="iv9duj" style="text-align: left;">전문가와 함께하는 여행</h3>
       <p>여행 전문가, 현지 관광 관련자, 다른 여행자들과 소통하고 참여할 수 있어,여행의 질을 높혀줍니다.</p>
+      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <h3 id="ivb00j" style="text-align: left;">실시간 소통</h3>
       <p id="id4rlv">Chatting, Live 기능을 통해 실시간으로 여행 정보를 공유하고 소통할 수 있습니다. 여행 테마, 여행 정보 등을 Live Class나 Chatting을 통해 배울 수 있습니다.</p>
     </div>
     <div id="imwenh" class="col-md-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
       <h3 id="i4e829" style="text-align: left;">여행 중 긴급한 도움이 필요할 때</h3>
       <p id="ial3d6">여행 중 긴급한 상황이 발생하면 EOSAM에 연결되어 여행 전문가, AISAM, 여행 중인 친구들이 도움을 제공합니다.</p>
+      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <h3 id="ihnyrb" style="text-align: left;">지역별 정보 제공</h3>
       <p id="i1hs0g">지역별 축제, 관광지 등의 정보를 Map 기반으로 제공합니다. 이를 통해 여행지를 더욱 쉽고 효과적으로 탐색할 수 있습니다.</p>
     </div>
