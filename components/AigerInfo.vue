@@ -19,17 +19,23 @@
   </div>
 </div>
 
-<div id="ibkln" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; margin: 0px; text-align: center; min-height: auto; padding: 8px;">
+<div id="ibkln" data-component-theme="portalThemeColor5" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; margin: 0px; text-align: center; min-height: auto; padding: 8px;">
   <div id="ibxllr" class="container" style="display: flex; flex-wrap: wrap;">
-    <div id="in8k0k" class="col-md-12 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; margin-left: 0px; margin-right: 0px; justify-content: center;">
-      <h4 id="id0x0u" style="text-align: left;">GEN AI 기반 협업 솔루션</h4>
-      <p id="ixwiun" style="text-align: left;">우리의 혁신적인 솔루션은 마케팅 분석과 비즈니스 인사이트를 위해 GEN AI를 기반으로 합니다.<br />사용자는 이를 통해 데이터를 쉽게 분석하고 AI 모델을 개발할 수 있습니다.</p>
-      <h4 id="imoz3l" style="text-align: left;">비개발자를 위한 시스템</h4>
+    <div id="in8k0k" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; margin-left: 0px; margin-right: 0px; justify-content: flex-start;">
+      <h3 id="ixbs8c" style="text-align: left;">GEN AI 기반 협업 솔루션</h3>
+      <p id="ixwiun" style="text-align: left;">우리의 혁신적인 솔루션은 마케팅 분석과 비즈니스 인사이트를 위해 GEN AI를 기반으로 합니다. 사용자는 이를 통해 데이터를 쉽게 분석하고 AI 모델을 개발할 수 있습니다.</p>
+    </div>
+    <div class="col-md-6 columnBlockLayout" id="iu85bg" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; margin-left: 0px; margin-right: 0px; justify-content: flex-start;">
+      <h3 id="i77pbm" style="text-align: left;">대화형 인터페이스</h3>
+      <p id="i82e43" style="text-align: left;">사용자 편의를 위해, 우리는 질의 형태의 UX를 제공하는 대화형 인터페이스를 개발했습니다. 사용자는 더욱 편리하게 우리의 솔루션을 활용할 수 있습니다.</p>
+    </div>
+    <div id="in8k0k" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; margin-left: 0px; margin-right: 0px; justify-content: flex-start;">
+      <h3 id="is9sxq" style="text-align: left;">비개발자를 위한 시스템</h3>
       <p id="i46qey" style="text-align: left;">기술적 배경이 없는 사용자도 데이터 분석 및 AI 모델 개발이 가능합니다.</p>
-      <h4 id="i8ou32" style="text-align: left;">자동화 시스템</h4>
+    </div>
+    <div class="col-md-6 columnBlockLayout" id="iu85bg" style="word-break: break-word; flex-grow: 1; min-width: 300px; display: flex; flex-direction: column; margin-left: 0px; margin-right: 0px; justify-content: flex-start;">
+      <h3 id="i7s07k" style="text-align: left;">자동화 시스템</h3>
       <p id="ix969h" style="text-align: left;">우리의 자동화 시스템은 분석 대응을 위한 개발 시간을 단축시켜 더 빠른 결과를 얻을 수 있습니다.</p>
-      <h4 id="ihfnbj" style="text-align: left;">대화형 인터페이스</h4>
-      <p id="i82e43" style="text-align: left;">사용자 편의를 위해, 우리는 질의 형태의 UX를 제공하는 대화형 인터페이스를 개발했습니다.<br />사용자는 더욱 편리하게 우리의 솔루션을 활용할 수 있습니다.</p>
     </div>
   </div>
 </div>

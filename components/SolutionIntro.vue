@@ -1,13 +1,11 @@
 <template>
   <div>
-  <div id="ie89vi" data-component-theme="portalThemeColor1" class="sectionBlockLayout text-left solutionBG1" style=''>
+    <div id="ie89vi" data-component-theme="portalThemeColor1" class="sectionBlockLayout text-left solutionBG1" style=''>
   <div id="ikc8xt" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
-    <div id="i1bv6e" class="col-md-12 columnBlockLayout siteTitle" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;"><h1 id="ic2gck" style="text-align: right; color: var(--portalThemeColor1);">우리는 어떤일을 할까요?&nbsp;</h1></div>
-  </div>
-</div>
-<div id="iwhao1" class="sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
-  <div id="ihvpch" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
-    <div id="ide6tv" class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;"><h2 id="ide22k" style="text-align: left;">우리는 AI를 기반으로한 데이터 분석, 마케팅, 여행 솔루션을 제공합니다.</h2></div>
+    <div id="i1bv6e" class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <h1 id="ihlvec" style="text-align: right; color: var(--portalThemeColor1);">우리는 어떤일을 할까요?&nbsp;</h1>
+      <p id="ileyi4" style="text-align: right; color: var(--portalThemeColor1);">이오그램은 AI를 기반으로한 데이터 분석, 마케팅, 여행 솔루션을 제공합니다.</p>
+    </div>
   </div>
 </div>
 <div id="iq1kei" data-component-theme="portalThemeColor7" class="sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px; background-position: center center; background-repeat: no-repeat; background-size: cover;">
@@ -15,18 +13,18 @@
     <div id="ia0gu1" class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word; justify-content: center;"><img src="@/assets/img/eogram-main-buss.png" id="ipi2ky" alt="eogram-main-buss" name="eogram-main-buss.png" style="width: 75%; height: auto; max-width: 100%; margin-left: auto; margin-right: auto;" /></div>
   </div>
 </div>
-<div id="ie89tz" data-component-theme="" class="sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px; background-position: center center; background-repeat: no-repeat; background-size: cover; border-radius: 0px; border: 0px solid rgb(200, 198, 196);">
+<div id="ie89tz" data-component-theme="portalThemeColor5" class="sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px; background-position: center center; background-repeat: no-repeat; background-size: cover; border-radius: 0px; border: 0px solid rgb(200, 198, 196);">
   <div id="il6qqp" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
-    <div id="itnv7j" class="col-md-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
-      <h4 id="ieyt9h" style="text-align: left; color: var(--portalThemeColor8);">데이터 분석&nbsp;</h4>
+    <div id="itnv7j" class="col-md-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <h3 id="i7ufnq" style="text-align: left;">데이터 분석&nbsp;</h3>
       <p id="ilpi7s" style="color: var(--portalThemeColor8);">AIGER GATE는 사용자의 질문을 처리하고 응답을 생성하는 역할을 합니다. 사용자 입력을 분석하고 필요한 정보를 추출하여 다양한 AI 모델에 전달합니다. Custom Prompt를 구성하고 데이터베이스에서 정보를 검색하여 응답을 생성합니다.</p>
-      <p id="i6vkwy" style="color: var(--portalThemeColor8);">AIGER MANAGER는 시스템 관리를 담당합니다. AutoML, 모니터링, 메타 데이터 관리, 라이브러리 관리, 사용자 인터페이스(UI) 등을 포함합니다. 시스템의 성능을 최적화하고 유지합니다.</p>
-      <div id="i1eowy" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
-      <h4 id="i851ed" style="text-align: left; color: var(--portalThemeColor8);">마케팅</h4>
-      <p id="iyhmvu" style="color: var(--portalThemeColor8);">비대면 오퍼는 EOFFER라는 솔루션으로 당신의 앱 사용자에게 필요한 정보를 즉시 제공합니다. 사용자 경험 향상, 고객 참여 증가, 그리고 비즈니스 성과를 개선합니다.</p>
+      <p id="i6vkwy" style="color: var(--portalThemeColor8);">​AIGER MANAGER는 시스템 관리를 담당합니다. AutoML, 모니터링, 메타 데이터 관리, 라이브러리 관리, 사용자 인터페이스(UI) 등을 포함합니다. 시스템의 성능을 최적화하고 유지합니다.</p>
+    </div>
+    <div id="iuwdo5" class="col-md-6 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; word-break: break-word;">
+      <h3 id="iednal" style="text-align: left;">마케팅</h3>
+      <p id="iyhmvu" style="color: var(--portalThemeColor8);">EOFFER는 비대면 오퍼링 솔루션으로 당신의 앱 사용자에게 필요한 정보를 즉시 제공합니다. 사용자 경험 향상, 고객 참여 증가, 그리고 비즈니스 성과를 개선합니다.</p>
       <p id="i2eyvi" style="color: var(--portalThemeColor8);">배치 / 실시간 캠페인은 3rd Party 솔루션으로서, 이지코어 솔루션즈의 솔루션과 함께합니다.</p>
-      <div id="i8dk29" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
-      <h4 id="i0k3eg" style="text-align: left; color: var(--portalThemeColor8);">여행</h4>
+      <h3 id="ifszrg" style="text-align: left;">여행</h3>
       <p id="ilbvzs" style="color: var(--portalThemeColor8);">EOSAM은&nbsp;여러분의 취향, 관심사, 그리고 생활 습관을 AI가 추천해주어 개인에게 딱 맞는 정보를 제공합니다. 비슷한 취향을 가진 친구들과 여행 정보를 나누며 대화할 수 있습니다.</p>
     </div>
   </div>
