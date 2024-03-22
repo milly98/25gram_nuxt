@@ -34,8 +34,8 @@
       <h2 id="ic1x8g" style="text-align: left;">Our Story</h2>
       <div id="isvhxy" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <p id="immdt">​이오그램은 2021년에 여행에 미련이 남아있는 사람들끼리 모여 취향 기반의 여행 커뮤니티를 구축하고 창업했습니다.<br id="ir7toq" /></p>
-      <p id="iokf7l">하지만 코로나로 인해 역경을 겪었습니다. 그럼에도 좋은 기회로 기업 마케팅 구축 사업을 진행하게 되었고, 광주은행, 경남은행, 하나은행과 협력하여 프로젝트를 수행했습니다.</p>
-      <p id="iqcicp">그리고 또 다른 재능을 발견하여 AI 전문가들과 함께하게 되었고, 현재 생산형 AI 프로젝트 혁신과제를 진행 중입니다.</p>
+      <p id="iokf7l">2022년부터는 기업 마케팅 구축 사업을 시도하여 광주은행, 경남은행, 하나은행과의 협력을 통해 프로젝트를 성공적으로 수행하였습니다.</p>
+      <p id="iqcicp">2024년, 새로운 재능을 발견하여 AI 전문가들과 협력하게 되었고, 현재는 생산형 AI 프로젝트 혁신 과제에 착수하여 진행 중입니다.</p>
     </div>
   </div>
 </div>
