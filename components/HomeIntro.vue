@@ -25,14 +25,14 @@
   <div id="it5rg" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
     <div id="ivy7o4" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;">
       <h2 id="iwbuxy" style="text-align: left;">25GRAM&nbsp;</h2>
-      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
+      <div id="isvhxy" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <p id="ixrmjm">25그램은 24시간을 넘어서 함께하는 그램(기록, 그림, 문서)을 의미합니다.</p>
       <p id="iemu9n">우리는 스타트업이지만 경험이 풍부한 사람들이 시작했습니다.</p>
       <p id="i2i6bn">그리고 한 단계 더 나아가기 위해 열정과 창의성을 가진 젊은 인재들이 함께하여 시대의 흐름을 따라가고 있습니다.</p>
     </div>
     <div id="iyf4u" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;">
       <h2 id="ic1x8g" style="text-align: left;">Our Story</h2>
-      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
+      <div id="isvhxy" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <p id="immdt">​이오그램은 2021년에 여행에 미련이 남아있는 사람들끼리 모여 취향 기반의 여행 커뮤니티를 구축하고 창업했습니다.<br id="ir7toq" /></p>
       <p id="iokf7l">하지만 코로나로 인해 역경을 겪었습니다. 그럼에도 좋은 기회로 기업 마케팅 구축 사업을 진행하게 되었고, 광주은행, 경남은행, 하나은행과 협력하여 프로젝트를 수행했습니다.</p>
       <p id="iqcicp">그리고 또 다른 재능을 발견하여 AI 전문가들과 함께하게 되었고, 현재 생산형 AI 프로젝트 혁신과제를 진행 중입니다.</p>
@@ -68,11 +68,11 @@
     </div>
     <div id="ioanb1" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; justify-content: flex-start;">
       <h3 id="ixdist" style="text-align: left;">리더십 &amp; ONE TEAM&nbsp;</h3>
-      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
+      <div id="isvhxy" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <p id="ipbpk8">​​​리더는 ONE TEAM의 중심 역할을 합니다. 리더는 다양한 의견을 조율하고, 팀원들이 하나로 통합되도록 이끕니다.&nbsp;팀원은 개인의 영역만을 주장하지 않고, ONE TEAM의 목표를 위해 협력합니다.<br id="itozbj" /></p>
       <p id="iryv0i">고객의 성공을 위해서라면 ONE TEAM 이 되어야 합니다.&nbsp;</p>
       <h3 id="ifz8tq" style="text-align: left; margin-top: 2rem;">LAB 의미&nbsp;</h3>
-      <div id="isvhxy" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
+      <div id="isvhxy" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
       <p id="ils14m">"LAB"은 원래 연구와 개발을 의미합니다. <br id="i65bja" />우리는 고객의 비즈니스를 레벨업 시키기 위해 끊임없이 연구합니다.<br id="ih4v63" />모든일에 선진적으로 접근하여 생산성과 효율성을 높일 수 있는 방안을 찾으려 노력하며, 고객의 성공을 위해 스스로 연구합니다.</p>
     </div>
   </div>
