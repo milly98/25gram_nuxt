@@ -64,7 +64,7 @@
       <h2 id="i8ys84" style="text-align: left;">Our Team is One Team</h2>
       <p id="i45zzh" style="text-align: left;">전략적인 팀 구성으로 효율성을 극대화 합니다.&nbsp;</p>
       <div id="ikwmhz" class="sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
-      <img src="@/assets/img/organizationchart.png" id="ikl7kc" alt="organization_chart" name="organization_chart.png" style="width: 100%; height: auto; max-width: 100%; margin-left: 0; margin-right: auto;" />
+      <img src="@/assets/img/organization_chart.png" id="ikl7kc" alt="organization_chart" name="organization_chart.png" style="width: 100%; height: auto; max-width: 100%; margin-left: 0; margin-right: auto;" />
     </div>
     <div id="ioanb1" class="col-md-6 columnBlockLayout" style="word-break: break-word; flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; justify-content: flex-start;">
       <h3 id="ixdist" style="text-align: left;">리더십 &amp; ONE TEAM&nbsp;</h3>
